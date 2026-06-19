@@ -8,7 +8,7 @@ console.log(typeof esEstudiante);
 
 let nombre = "Jesús";
 
-let saludo = `Hola $(nombre), tienes $(edad) años`;
+let saludo = `Hola ${nombre}, tienes ${edad} años'`;
 
 console.log(saludo);
 
